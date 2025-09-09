@@ -55,7 +55,7 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 - **Enterprise Integration**: Developed secure APIs for ERP system integration and external vendor communications
 - **Cloud Architecture**: Deployed scalable solutions on Azure Functions, App Service, and Blob Storage
 
-### 🔹 Software Engineer @ LTIMindtree (Jan 2021 - Aug 2022)
+### 🔹 Software Engineer @ LTIMindtree (Oct 2020 - Aug 2022)
 **Chennai, India**
 
 - **IoT Data Streaming**: Built Kafka-based real-time data streaming pipelines for elevator IoT sensors across thousands of devices globally
