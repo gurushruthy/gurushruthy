@@ -63,7 +63,8 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 - **ETL Integration**: Collaborated with Pentaho ETL and Azure teams for scalable data ingestion
 
 ## Featured Projects
-### [Donor-Finder]([https://donor-finder-13de.vercel.app/]) (2025)
+
+### [Donor-Finder](https://donor-finder-13de.vercel.app/) (2025)
 **Full-Stack Donor Search Application for Non-profits**
 - Built a full-stack donor search application using **FastAPI (backend) and Next.js (frontend) in Cursor** to search and filter nonprofit donors.
 - Integrated semantic search with **PostgreSQL + pgvector** and external APIs for donor enrichment.
