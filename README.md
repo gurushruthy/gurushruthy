@@ -63,6 +63,12 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 - **ETL Integration**: Collaborated with Pentaho ETL and Azure teams for scalable data ingestion
 
 ## Featured Projects
+### [Donor-Finder]([https://donor-finder-13de.vercel.app/]) (2025)
+**Full-Stack Donor Search Application for Non-profits**
+- Built a full-stack donor search application using **FastAPI (backend) and Next.js (frontend) in Cursor** to search and filter nonprofit donors.
+- Integrated semantic search with **PostgreSQL + pgvector** and external APIs for donor enrichment.
+- Deployed the backend on **Fly.io with Docker and the frontend on Vercel**, managing environment variables, CORS, and health checks.
+- Delivered a production-ready blueprint with scalable microservice separation and CI/CD support Git.
 
 ### [BlueMQ](https://github.com/gurushruthy/BlueMQ) (2024)
 **High-Performance In-Memory Messaging System**
