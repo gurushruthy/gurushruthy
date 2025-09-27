@@ -49,19 +49,23 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 ### 🔹 Software Developer @ Ottenweller Company Inc. (Feb 2024 - Present)
 **Remote - Indiana, United States**
 
-- **AI-Powered Automation**: Designed and implemented an Agentic AI-Powered Accounts Payable Automation Platform with multi-agent LLM pipelines using LangChain, LangGraph, and RAG with FAISS vector indexes
-- **Performance Impact**: Reduced manual invoice processing time by **60%** and improved accuracy by **40%**
-- **Full-Stack Development**: Built complete solutions from backend AI models to user-friendly React dashboards
-- **Enterprise Integration**: Developed secure APIs for ERP system integration and external vendor communications
-- **Cloud Architecture**: Deployed scalable solutions on Azure Functions, App Service, and Blob Storage
+- **Agentic AI Automation**: Built a Python-based backend for an AI-powered Accounts Payable Automation Platform, orchestrating multi-agent LLM pipelines with **LangChain**, **LangGraph**, and **RAG (FAISS)**. Designed agents for document parsing, compliance verification, and payment scheduling.  
+- **Impact**: Reduced invoice processing time by **60%** and improved accuracy by **40%**  
+- **Tech Stack**: Developed backend services in **Python (FastAPI)** and **C# / ASP.NET Core** for ERP and vendor API integration. Built interactive dashboards with **React + Next.js**  
+- **Quality & Reliability**: Engineered an automatic testing framework for parsing/executing shell scripts, achieving **100% code coverage** and reinforcing system reliability  
+- **Cloud & CI/CD**: Deployed on **Azure Functions, Azure AI Foundry, App Service, Blob Storage** with Git-based CI/CD pipelines ensuring scalable and fault-tolerant operations  
+
+---
 
 ### 🔹 Software Engineer @ LTIMindtree (Oct 2020 - Aug 2022)
 **Chennai, India**
 
-- **IoT Data Streaming**: Built Kafka-based real-time data streaming pipelines for elevator IoT sensors across thousands of devices globally
-- **Fault-Tolerant Systems**: Architected resilient Kafka consumer workflows with concurrent processing and dead-letter queues
-- **High Availability**: Tuned Kafka configurations for HA/DR objectives with exactly-once processing semantics
-- **ETL Integration**: Collaborated with Pentaho ETL and Azure teams for scalable data ingestion
+- **IoT Data Streaming**: Contributed to the **Connected Elevator** project, building Kafka-based real-time pipelines to ingest high-frequency telemetry from global IoT sensors  
+- **Fault Tolerance**: Architected resilient Kafka consumer workflows with concurrent processing and **Dead-Letter Queues (DLQs)**. Tuned replication, partitioning, and broker configs for **HA/DR** with **exactly-once semantics**  
+- **Integration & Monitoring**: Integrated pipelines with Azure-based storage and analytics layers. Built monitoring dashboards in **React** and **Grafana** to visualize stream health and telemetry  
+
+---
+
 
 ## Featured Projects
 
