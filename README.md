@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a passionate Software Developer with expertise in AI-powered solutions, distributed systems, and full-stack development. Currently working at Ottenweller Company Inc., where I design and implement cutting-edge Agentic AI platforms that automate complex business processes. I hold a Master's in Computer Science from Purdue University (4.0 GPA) and have experience building scalable, high-performance systems.
+I'm a passionate Software Developer with expertise in AI-powered solutions, distributed systems, and full-stack development. In my recent job at Ottenweller Company Inc., I designed and implemented cutting-edge Agentic AI platforms that automate complex business processes. I hold a Master's in Computer Science from Purdue University (4.0 GPA) and have experience building scalable, high-performance systems.
 
 ## Technical Skills
 
