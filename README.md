@@ -57,7 +57,7 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 
 ---
 
-### 🔹 Software Engineer @ LTIMindtree (Oct 2020 - Aug 2022)
+### 🔹 Software Engineer @ LTIMindtree (May 2021 - Aug 2022)
 **Chennai, India**
 
 - **IoT Data Streaming**: Contributed to the **Connected Elevator** project, building Kafka-based real-time pipelines to ingest high-frequency telemetry from global IoT sensors  
