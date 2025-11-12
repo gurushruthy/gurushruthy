@@ -46,6 +46,17 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 
 ## 💼 Professional Experience
 
+### 🔹 Full Stack Software Engineer  @ Posterchild.ai (Oct 2025 - Present)
+**Remote - Berkeley, California**
+
+- **AI-Powered Product Development**: Built end-to-end features for PosterChild’s fundraising intelligence platform using **React/Next.js (frontend)** and **Python/FastAPI (backend)**, integrating **AI agents** and **LangChain/LangGraph** workflows to automate campaign creation and donor engagement.  
+- **Collaboration & Product Strategy**: Worked closely with founders on **roadmap planning**, rapid **product iteration**, and refining user-driven feature lifecycles through continuous feedback.  
+- **Architecture & Infrastructure**: Led **system design**, **CI/CD pipelines**, and **deployment strategies** on **Google Cloud Platform (GCP)**, ensuring scalable, secure, and high-performance systems.  
+- **Impact**: Accelerated campaign creation and engagement workflows — enabling nonprofits to launch **data-driven outreach 2× faster** through agentic automation.  
+- **Tech Stack**: `Next.js`, `React`, `FastAPI`, `LangChain`, `LangGraph`, `Supabase (Postgres + pgvector)`, `GCP (Cloud Run, Vertex AI)`
+
+---
+
 ### 🔹 Software Developer @ Ottenweller Company Inc. (Feb 2024 - Present)
 **Remote - Indiana, United States**
 
