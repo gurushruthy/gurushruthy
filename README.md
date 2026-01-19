@@ -60,23 +60,22 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 
 ---
 
-### 🔹 Software Developer @ Ottenweller Company Inc. (Feb 2024 - Present)
-**Remote - Indiana, United States**
+### 🔹 Software Developer @ Ottenweller Company Inc. (Feb 2024 – Present)
+**Remote — Indiana, United States**
 
-- **Agentic AI Automation**: Built a Python-based backend for an AI-powered Accounts Payable Automation Platform, orchestrating multi-agent LLM pipelines with **LangChain**, **LangGraph**, and **RAG (FAISS)**. Designed agents for document parsing, compliance verification, and payment scheduling.  
-- **Impact**: Reduced invoice processing time by **60%** and improved accuracy by **40%**  
-- **Tech Stack**: Developed backend services in **Python (FastAPI)** and **C# / ASP.NET Core** for ERP and vendor API integration. Built interactive dashboards with **React + Next.js**  
-- **Quality & Reliability**: Engineered an automatic testing framework for parsing/executing shell scripts, achieving **100% code coverage** and reinforcing system reliability  
-- **Cloud & CI/CD**: Deployed on **Azure Functions, Azure AI Foundry, App Service, Blob Storage** with Git-based CI/CD pipelines ensuring scalable and fault-tolerant operations  
+- Built a Python-based backend system for an **Agentic AI-powered Accounts Payable Automation Platform**, orchestrating LLM agents using **LangChain**, **LangGraph**, and **RAG (FAISS vector indexes)**. Delivered full-stack functionality including user-facing dashboards, and developed specialized agents for **document parsing, compliance verification, payment scheduling, and ERP/vendor API integration**—reducing invoice processing time by **60%** and improving accuracy by **40%**.
+- Implemented backend services in **Python (FastAPI)** for AI orchestration and **C# / ASP.NET Core** for enterprise integration, enabling secure interoperability with ERP systems and EDA tools via **REST APIs**, file parsers, and caching mechanisms to reduce API latency.
+- Deployed and maintained the platform on **Azure Functions**, **Azure AI Foundry**, **App Service**, and **Blob Storage**, with Git-integrated **CI/CD pipelines** ensuring scalable and fault-tolerant operations.
+ 
 
 ---
 
-### 🔹 Software Engineer @ LTIMindtree (May 2021 - Aug 2022)
+### 🔹 Software Engineer @ LTIMindtree (May 2021 – Aug 2022)
 **Chennai, India**
 
-- **IoT Data Streaming**: Contributed to the **Connected Elevator** project, building Kafka-based real-time pipelines to ingest high-frequency telemetry from global IoT sensors  
-- **Fault Tolerance**: Architected resilient Kafka consumer workflows with concurrent processing and **Dead-Letter Queues (DLQs)**. Tuned replication, partitioning, and broker configs for **HA/DR** with **exactly-once semantics**  
-- **Integration & Monitoring**: Integrated pipelines with Azure-based storage and analytics layers. Built monitoring dashboards in **React** and **Grafana** to visualize stream health and telemetry  
+- Contributed to the Connected Elevator project as a full-stack developer, building **Java/Spring Boot** backend services and **Kafka-based real-time streaming pipelines** to ingest and process high-frequency telemetry from global elevator IoT sensors. Integrated ingestion workflows with **Azure-based storage and analytics** layers.
+- Developed resilient Kafka consumer workflows with concurrent processing and integrated **Dead-Letter Queues (DLQs)** to ensure fault-tolerant message handling and observability of failed events. Tuned Kafka **replication factor**, **partitioning strategy**, and **broker configurations** to meet **HA/DR** objectives across production clusters. Ensured **exactly-once semantics (EOS)** using Kafka transactional APIs.
+- Worked closely with the **Pentaho ETL** and **Azure** teams to streamline Kafka topic structures with downstream transformation and storage layers, enabling consistent schema evolution and scalable data ingestion.
 
 ---
 
