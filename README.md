@@ -46,14 +46,17 @@ I'm a passionate Software Developer with expertise in AI-powered solutions, dist
 
 ## 💼 Professional Experience
 
-### 🔹 Full Stack Software Engineer  @ Posterchild.ai (Oct 2025 - Present)
-**Remote - Berkeley, California**
+### 🔹 Full Stack Software Engineer @ PosterChild.ai (Oct 2025 – Present)
+**Remote — Berkeley, CA**
 
-- **AI-Powered Product Development**: Built end-to-end features for PosterChild’s fundraising intelligence platform using **React/Next.js (frontend)** and **Python/FastAPI (backend)**, integrating **AI agents** and **LangChain/LangGraph** workflows to automate campaign creation and donor engagement.  
-- **Collaboration & Product Strategy**: Worked closely with founders on **roadmap planning**, rapid **product iteration**, and refining user-driven feature lifecycles through continuous feedback.  
-- **Architecture & Infrastructure**: Led **system design**, **CI/CD pipelines**, and **deployment strategies** on **Google Cloud Platform (GCP)**, ensuring scalable, secure, and high-performance systems.  
-- **Impact**: Accelerated campaign creation and engagement workflows — enabling nonprofits to launch **data-driven outreach 2× faster** through agentic automation.  
-- **Tech Stack**: `Next.js`, `React`, `FastAPI`, `LangChain`, `LangGraph`, `Supabase (Postgres + pgvector)`, `GCP (Cloud Run, Vertex AI)`
+- Architected a distributed content-generation engine that transforms high-volume unstructured metadata into multimodal social assets, using **FastAPI** orchestration and **event-driven workflows** for high-throughput review processing, plus **React/Next.js** dashboards and org-preview UIs.
+- Operationalized **agentic AI pipelines** with **Gemini** for brand-voice synthesis and content guidelines; built automated feedback loops that reduced manual drafting latency and ensured consistent output across global social channels.
+- Optimized end-to-end latency for AI-driven content pipelines via workload partitioning and concurrency controls; implemented event-driven orchestration to manage complex DB/LLM interactions, improving reliability and throughput.
+- Built a resilient data layer for high-concurrency pipelines using **PostgreSQL + pgvector** for semantic similarity search and **Redis** for low-latency caching; orchestrated **GCP** infrastructure (autoscaling + **Cloud Service Mesh**) to support **99.9% availability** and reliable service-to-service communication during traffic spikes.
+- Designed **RESTful APIs** with clear contracts and comprehensive tests, and contributed to broader architectural decisions.
+- **Impact:** Enabled nonprofits to launch data-driven outreach **2× faster** through agentic automation.
+
+**Tech Stack:** `Next.js`, `React`, `FastAPI`, `LangChain`, `LangGraph`, `Supabase (Postgres + pgvector)`, `Redis`, `GCP (Cloud Run, Vertex AI, Cloud Service Mesh)`
 
 ---
 
